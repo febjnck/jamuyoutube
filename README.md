@@ -16,7 +16,7 @@ https://t.me/playintegrityfix
 
 ## Donations
 
-- [Saweria](https://paypal.me/febjnck)
+- [Saweria](https://saweria.com/febjnck)
 
 ## About module
 
