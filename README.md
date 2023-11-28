@@ -1,4 +1,4 @@
-# Jamu Youtube
+# Jamu Youtube 🗿
 
 A Zygisk module which fix "ctsProfileMatch" (SafetyNet) and "MEETS_DEVICE_INTEGRITY" (Play
 Integrity).
