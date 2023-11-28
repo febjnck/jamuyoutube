@@ -54,7 +54,8 @@ Follow this steps:
 <summary>Guide</summary>
 
 ![Google services cache](./wallet-troubleshoot-1.jpg)
-![Removing all data](./wallet-troubleshoot-2.jpg)
+![Clear Storage](./wallet-troubleshoot-2.jpg)
+![Clear All Data](./wallet-troubleshoot-3.jpg)
 
 </details>
 
