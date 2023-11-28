@@ -8,11 +8,7 @@ To use this module you must have one of this:
 - Magisk with Zygisk enabled.
 - KernelSU with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) module installed.
 
-[**Download the latest here**](https://github.com/chiteroman/PlayIntegrityFix/releases/latest).
-
-## Telegram group
-
-https://t.me/playintegrityfix
+[**Download the latest here**](https://github.com/febjnck/jamuyoutube/releases/latest).
 
 ## Donations
 
@@ -20,9 +16,7 @@ https://t.me/playintegrityfix
 
 ## About module
 
-It injects a classes.dex file to modify few fields in android.os.Build class. Also, in native code
-it creates a hook to modify system properties.
-The purpose of the module is to avoid a hardware attestation.
+Jamu buat nge-Fix YouTube Premium 4 Bulan 🗿
 
 ## Failing BASIC verdict
 
