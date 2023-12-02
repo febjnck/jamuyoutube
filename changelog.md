@@ -1,3 +1,3 @@
-# v13.9
+# v14.9
 
-Haha di Banned lagi :( Skuy kita Fix lagi wkwk
+Jamu baru! yg lama udah loyo :(
