@@ -1,3 +1,3 @@
-# v14.2
+# v15.0
 
-Jamu baru! yg lama udah loyo :(
+Jamu baru! yg lama udah loyo bang :(
