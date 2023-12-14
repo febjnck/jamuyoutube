@@ -1,3 +1,3 @@
-# v14.3
+# v14.4
 
-Jamu baru! yg lama udah loyo bang :(
+Hari Hari kena Banned :(
